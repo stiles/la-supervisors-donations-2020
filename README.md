@@ -1,6 +1,8 @@
 # Los Angeles County Board of Supervisors Donations
 
-This repo includes data and analysis of Los Angeles County campaign-finance data, which can be downloaded from the Registrar-Recorder/County Clerk's [TRACCER database](https://efs.lacounty.gov/public_search.cfm) of campaign statements, contributions and expenditures. 
+This repo includes an analysis of Los Angeles County campaign-finance data, which can be downloaded from the Registrar-Recorder/County Clerk's [TRACCER](https://efs.lacounty.gov/public_search.cfm) service that contains searchable reports of campaign statements, contributions and expenditures. 
+
+This is just a draft. 
 
 
 <!-- Field | Description
@@ -15,4 +17,4 @@ This repo includes data and analysis of Los Angeles County campaign-finance data
 **overseas** | y/n
 **region** | Abbreviated codes for regions (if overseas) -->
 
-Please [let us know](mailto:matt.stiles@latimes.com) if you find interesting information in the documents, if you have any questions. You can send documents, pictures and messages privately using the [Signal smartphone app](https://signal.org/) to (202) 670-8742.
+Please [let me know](mailto:matt.stiles@latimes.com) if you find interesting information in the data, or if you have any questions. You can also send documents, pictures and messages privately using the [Signal smartphone app](https://signal.org/) to (202) 670-8742.
